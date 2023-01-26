@@ -1,5 +1,7 @@
 # Kepler
 
+- [Play Now!](https://asn6a.github.io/Kepler-GameJam/)
+
 ![Kepler](https://img.itch.zone/aW1hZ2UvMTg3OTQ1OC8xMTA4NjA5Ni5qcGc=/794x1000/dUJwjV.jpg)
 
 This game was made on mobile using Godot Mobile in just one week.
